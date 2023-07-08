@@ -1,7 +1,7 @@
 Ola  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) meu nome é Thiago Teixeira Dourado
 ===============================================================================================================================================
 
-Formado em Design Gráfico Digital e Sistemas de Informação, com experiência em diversas áreas de empresa (financeiro/compras/ti/contratos) buscando focar na área que amo de tecnologia.
+Profissional com perfil colaborativo e flexível. Possuo experiências em HTML, CSS, JAVA SCRIPT, SQL, PHP, PHOTOSHOP, COREL DRAW, BOOTSTRAP, utilização de APIs e habilidades em UML, conhecimento de metodologias ágeis (SCRUM) em busca constante de conhecimento para a solução de novos desafios.
 
 * 🌍  Sou de Brasil - São Paulo - SP
 * ✉️  pode me contactar através do e-mail [thiagodourado@gmail.com](mailto:thiagodourado@gmail.com)
